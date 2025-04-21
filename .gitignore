@@ -1,0 +1,13 @@
+# Data
+experimental_database_short.zip
+data_files/
+data_files_txt/
+struct_rs_R1.mat
+struct_r1b_R1.mat
+struct_r2b_R1.mat
+struct_r3b_R1.mat
+struct_r4b_R1.mat
+
+# Env
+.venv/
+__pycache__/
